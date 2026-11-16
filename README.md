@@ -1,4 +1,3 @@
-# Quantum-Classical-Hybrid-Model-for-Sentence-Similarity
 # Quantum-Classical Hybrid Model for Sentence Similarity
 
 ## 1. Project Overview

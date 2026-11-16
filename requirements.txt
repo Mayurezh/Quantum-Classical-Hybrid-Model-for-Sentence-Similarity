@@ -1,0 +1,11 @@
+
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+datasets
+joblib
+
+Important: Your reconstructed Python script uses analytical quantum expectation calculations, so PennyLane is not required to execute that particular script. 
+If you later switch to actual PennyLane circuit simulation, add:pennyLane
